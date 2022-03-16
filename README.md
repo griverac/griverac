@@ -1,5 +1,5 @@
-- 💫 Hola! I'm Libni Galilea, accountant and systems engineering student.
-- 💻 I am currently learning Java, Node.Js, Angular
-- 🚀 I am looking to collaborate in web development and applications
-- ✨ Ig: @libni_galilea Tw @jesgalr 
-- ✨ Rlibnigalilea@gmail.com 
+- 💫 Hola! soy Libni Galilea, tengo 20 años y Soy contadora y estudiante de ingeniería en sistemas.
+- 💻 I am currently learning Java, Node.Js, Angular 
+- 🚀 I am looking to collaborate in web development and applications 
+- ✨ Ig: @libni_galilea - Tw @jesgalr 
+- ✨ Rlibnigalilea@gmail.com
